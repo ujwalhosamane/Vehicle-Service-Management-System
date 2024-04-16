@@ -56,3 +56,13 @@ Besides, the Vehicle Service Management System is based on local deployment by X
 **Xampp Database**  
 
 ![Xampp Database](https://github.com/ujwalhosamane/Random-Resources/blob/main/Vehicle-Service-Management-System/Xampp%20Database%20.png?raw=true)
+
+## Login Credentials
+
+- **Admin Login:**
+    - Email: ujwalhu@gmail.com
+    - Password: Ujwal@123
+
+- **Employee Login:**
+    - Email: satwik@gmail.com
+    - Password: @Satwik1
